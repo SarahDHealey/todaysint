@@ -1,5 +1,4 @@
 class StringCalculator
 	def sum (addends) 
-		0
-	end
+		addends.to_i
 end
